@@ -4,7 +4,7 @@ I'm a student studying Computer Science, and I use GitHub to store and share my 
 
 ## 🎓 School Interests
 - **Favorite Subjects**: History, Geography, English.
-- **Hobbies**: Reading, listening music (mostly Taylor Swift), running.
+- **Hobbies**: Reading, listening to music (mostly Taylor Swift), running.
 
 ## 📚 Projects
 - Project 1: (https://github.com/sallygosson/Atividades-WEB-1-HTML)
