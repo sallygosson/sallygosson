@@ -7,8 +7,8 @@ I'm a student studying Computer Science, and I use GitHub to store and share my 
 - **Hobbies**: Reading, listening to music (mostly Taylor Swift), running.
 
 ## 📚 Projects
-- Project 1: (https://github.com/sallygosson/Atividades-WEB-1-HTML)
-- Project 2: (https://github.com/sallygosson/CTI-P4-POO-20242-LISTA01)
+- Project 1: (https://github.com/sallygosson/Atividades-WEB-1-HTML) WEB projects.
+- Project 2: (https://github.com/sallygosson/CTI-P4-POO-20242-LISTA01) POO projects.
 
 ## 💻 Technologies
 - Languages: Python, Java, JavaScript 
