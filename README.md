@@ -12,7 +12,7 @@ I'm a student studying Computer Science, and I use GitHub to store and share my 
 
 ## 💻 Technologies
 - Languages: Python, Java, JavaScript 
-- Tools: Git, Visual Studio Code.
+- Tools: Git, Visual Studio Code, Eclipse.
 
 ## ✉️ Contact
 - Email: s.gosson@aluno.ifce.edu.br
