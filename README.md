@@ -8,7 +8,10 @@ I'm a student studying Computer Science, and I use GitHub to store and share my 
 
 ## 📚 Projects
 - Project 1: [WEB projects.](https://github.com/sallygosson/Atividades-WEB-1---HTML)
-- Project 2: [POO projects.](https://github.com/sallygosson/CTI-P4-POO-20242-LISTA01)
+- Project 2: [POO 1](https://github.com/sallygosson/CTI-P4-POO-20242-LISTA01) [POO 2](https://github.com/sallygosson/CTI-P4-POO-20242-LISTA02) [POO 3](https://github.com/sallygosson/CTI-P4-POO-20242-LISTA03)
+- Project 3: [Galery WEB](https://github.com/sallygosson/galeria)
+- Project 4: [Card WEB](https://github.com/sallygosson/CartaoCSS) [Profile WEB](https://github.com/sallygosson/PerfilCSS)
+- Corporation [QuantumDex](https://github.com/NewQuantumDex): [PokeDex](https://github.com/NewQuantumDex/PokedexAPP)
 
 ## 💻 Technologies
 - Languages: Python, Java, JavaScript 
